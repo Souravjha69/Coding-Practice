@@ -5,12 +5,16 @@ h1 {
   font-weight: 600;
   text-decoration: red underline;
   letter-spacing: 5px;
+  font-family: "Papyrus";
+  border-top-color: blue;
+  border-right-color: chartreuse;
 }
 
 p{
   text-align: justify;
   font-weight: 400;
   line-height: 1.5;
+  
 }
 
 h2 {
