@@ -1,0 +1,46 @@
+/* Here this is that where it slects everything in the HTML Page */
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+/* Here We are using  Element Selector*/ 
+h3 {
+  color: #A82400;
+}
+
+/* Here, if use comma then we use multiple elements CSS in the same time :- 
+h1, h3 {
+  color: purple;
+}*/
+
+h1{
+  color:#A82400 ;
+}
+
+/* Here we are using Id Selector */
+#login {
+  background-color: white;
+  color: black;
+}
+
+#signup {
+  background-color:#A82400;
+  color: white;
+}
+
+/* Here I'm using Class Selector */
+.a {
+  background-color: green;
+  color: white;
+}
+
+/* Here We are using Desecendent Selector to select multiple types of documents in the html file */
+.Post a {
+  color: purple;
+  background-color: yellow;
+}
+
+nav ul li a{
+  color: purple;
+}

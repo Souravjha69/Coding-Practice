@@ -1,0 +1,19 @@
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+  color: #1b74e4;
+}
+
+.Log_in {
+  background-color: aqua;
+}
+.Register {
+  background-color: aqua;
+}
+
+#Search {
+  background-color: black;
+  color: white;
+}
