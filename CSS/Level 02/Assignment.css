@@ -1,0 +1,31 @@
+#mainTopic {
+  color: blue;
+  font-family: Georgia;
+}
+
+* {
+  text-align: center;
+}
+
+.Para {
+  color: white;
+  background-color: cornflowerblue;
+}
+
+.Submit {
+  background-color: purple;
+  color: azure;
+}
+
+.Submit:hover {
+  background-color: yellow;
+  color: blue;
+}
+
+#mainTopic::first-letter {
+  color: red;
+}
+
+#yes:checked+label {
+  color: darkgreen;
+}

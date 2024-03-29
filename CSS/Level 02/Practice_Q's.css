@@ -1,0 +1,24 @@
+/* Here we are using Psudo calss */
+button:hover {
+  background-color: black;
+  color: white;
+}
+button:active {
+  color: blue;
+  background-color: blueviolet;
+}
+
+input[type="radio"]:checked+label {
+  color: blue;
+  font-weight: 600;
+  background-color: cyan;
+}
+
+/* Here we are using pseudo element, it changes the first letter any changes, also called the first line*/
+button::first-letter {
+  color: blueviolet;
+}
+/* ::first-lineline It changes the styling of the first line*/
+h3::selection {
+  background-color: brown;
+}

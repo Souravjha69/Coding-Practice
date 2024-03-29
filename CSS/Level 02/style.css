@@ -44,3 +44,31 @@ h1{
 nav ul li a{
   color: purple;
 }
+
+/* Here I am learning Sibling Combinator*/
+p + h3 {
+  text-decoration: underline;
+} 
+
+.a +.b {
+  background-color: cornflowerblue;
+  color: darkblue;
+}
+
+/* Here i am using Attribute selctor */
+input[type ="text"] {
+  color: blue
+}
+
+input[type = "password"] {
+  color: brown;
+}
+
+input[type] {
+  background-color: aquamarine;
+}
+
+/* Practice Question*/
+#myid p{
+  color: green;
+}
