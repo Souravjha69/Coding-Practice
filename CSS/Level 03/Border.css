@@ -1,0 +1,39 @@
+div {
+  height: 100px;
+  width: 800px;
+}
+
+/* Here I'm using the border part which is not setting the content part it is setting the outer Boundary means div contaniner part */
+
+/* div{
+  border-color: rgb(11, 11, 11); */
+/* border-width: 5px;
+  border-style: solid;
+  border-color: rgb(20, 21, 21);
+
+  
+} */
+
+h1 {
+  border-style: dotted;
+  border-color: green;
+}
+
+div {
+  /* border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  Just same these 3 things we can write also in this way like :- */
+  border: 2px solid black;
+  /* Here I'm changing the color style of the border means div contanier side whatever we want*/
+  border-left-color: brown;
+  border-left-style: dashed;
+  /* border-top: 5px dashed blue; */
+  /* The thing is we can apply this property wherever we want on whichever sides of the property */
+}
+
+
+/* Here we are doing border radius means border round doing :- */
+div{
+  border-radius: 10px;
+}

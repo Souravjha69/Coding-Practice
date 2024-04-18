@@ -1,0 +1,11 @@
+/* Height Property ka kaam hota hai , mere content wale part ko height ke taur pe badha dena yanike mere blue wale part ko badha dena 
+*/
+div{
+  height:100px;
+  width: 800px; 
+  /* ye pure content wale part me color krta hia , only content wale part me inside div jo bhi Edit kr rha hu main */
+  background-color: aquamarine;  
+  /* text-align: center; */
+  /* display: flex; */
+}
+
