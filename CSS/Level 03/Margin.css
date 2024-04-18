@@ -1,0 +1,30 @@
+div{
+  height: 100px;
+  width: 800px;
+}
+
+/* Here margin is set to be to be spacing of outside of the border like 
+2 box ke spacing ko control krne ke liye : - */
+
+div{
+  border-radius: 10px;
+  border-style: solid;
+  border-color: black;
+  padding-left: 20px;
+  padding-top: 20px;
+  margin-top: 20px;
+  /* margin: 10px 20px 30px; */
+  margin-left: 280px;
+}
+/* Margin basically 2 contaniner ya 2 box ke bich ke element ko size dene liye ya gap dene ke liye apply
+kiya jata hai 
+BAsically kisi bhi element ki spacing ko control krne ke liye uske padding and margin control kr skte hain */
+
+button{
+  margin-top: 20px;
+  margin-left: 350px;
+}
+
+h1{
+  margin-left: 20em;
+}

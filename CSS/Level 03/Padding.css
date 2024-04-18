@@ -1,0 +1,22 @@
+div{
+  height: 100px;
+  width: 800px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+/* Padding means here the space left after all the sides that we are going to use
+content ko position dena means kind of padding */
+div{
+  padding-top: 10px;
+  padding-left: 18px;
+  /* padding-right: 3px; */
+}
+button{
+  border: 2px solid black;
+  border-radius: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  background-color: yellow;
+}
