@@ -1,0 +1,26 @@
+/* Means block element ko inline (Ek line me dikha skhte hain) and Inline ko alag line me bhi dikha skte hain: - */
+/* h2{
+  display: inline;
+  background-color: pink;
+}
+
+span{
+  display: block;
+  background-color: green;
+} */
+
+/* h2{
+  padding-left: 24rem;
+  margin-left: 10rem;
+} */
+
+span{
+  /* background-color: pink; */
+  border: 2px;
+  border:solid;
+  border-color: black;
+  height: 50px;
+  width: 600px;
+  /* padding: 10px; */
+  padding: 50px;
+}
