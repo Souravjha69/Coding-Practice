@@ -1,0 +1,17 @@
+/* div{
+  height: 200px;
+  width: 200px;
+  background-color: green;
+  border-color: black;
+  border: 2px solid;
+  margin: 5px;
+  display: inline-block;
+} */
+
+h1{
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 8%;
+  padding-left: 6px;
+  margin-left: 10%;
+}
