@@ -1,0 +1,15 @@
+/* This help in background color blur capacity translucent. */
+/* Also here Alpha sets the color visiblity status only */
+/* div{
+  height: 200px;
+  width: 200px;
+  background-color: rgba(255, 0, 0, 0.691);
+} */
+
+/* Here opacity applies on all elements and div in the html  */
+#opacity{
+  background-color: yellow;
+  opacity: 1;
+  height: 100px;
+  width: 100px;
+}
